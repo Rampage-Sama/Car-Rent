@@ -16,18 +16,6 @@
 --text-color:#444;
 --gradient:linear-gradient(#fe5b3d,#ffac38);
 }
-/* custom scroll Bar */
-html::-webkit-scrollbar{
-    width: 0.5rem;
-}
-html::-webkit-scrollbar-track {
- background: transparent;
-    
-}
-html::-webkit-scrollbar{
- background: var(--main-color);
- border-radius: 5rem;   
-}
 
 section{
     padding: 50px 100px;
