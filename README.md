@@ -14,9 +14,9 @@
 <!--Technolgies -->
 ## **Languages used:**
 
-![Styling](https://img.shields.io/badge/Styling-HTML-orange)
-![Styling](https://img.shields.io/badge/Styling-CSS-blue)
-![Functionality](https://img.shields.io/badge/funtionality-JavaScript-yellow)
+<img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+<img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 
 ---
 <!--Screenshot -->
