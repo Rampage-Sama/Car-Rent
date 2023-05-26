@@ -4,11 +4,11 @@
 <!--About web application -->
 ## What it is?
 
-### _Car Rent Dealership_ is a hiring website that allows users who are looking to hiring old school JDMS at a low cost with a minimalist yet elegant design.
+ _Car Rent Dealership_ is a hiring website that allows users who are looking to hiring old school JDMS at a low cost with a minimalist yet elegant design.
 
 ## What it does?
 
-### It showcases my design skills and a bit of JavaScript skills for the functionality of the website.
+ It showcases my design skills and a bit of JavaScript skills for the functionality of the website.
 
 ***
 <!--Technolgies -->
